@@ -1,0 +1,19 @@
+#islandborder{
+border-bottom:1px inset rgb(229, 235, 234);
+border-left:1px inset rgb(229, 235, 234);
+border-right: 1px inset rgb(229, 235, 234);
+border-top: 2px inset rgb(111, 64, 198);
+padding-top: 15px;
+padding-left:0;
+padding-right: 0;
+box-shadow: 5px 10px rgba(0, 0, 0, 0.06);
+background-color: lightgrey;
+}
+#para{
+text-align: justify;
+  font-family:serif;
+}
+#utmLogo2{
+  border: 2px solid black;
+
+}
